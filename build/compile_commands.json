@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/xiong/Documents/人工智能/实验/实验一/build",
+  "command": "/usr/bin/clang++ -I/home/xiong/Documents/人工智能/实验/实验一/include -g -std=gnu++17 -o CMakeFiles/MyProject.dir/src/main.cpp.o -c /home/xiong/Documents/人工智能/实验/实验一/src/main.cpp",
+  "file": "/home/xiong/Documents/人工智能/实验/实验一/src/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/xiong/Documents/人工智能/实验/实验一/build",
+  "command": "/usr/bin/clang++ -I/home/xiong/Documents/人工智能/实验/实验一/include -g -std=gnu++17 -o CMakeFiles/MyProject.dir/src/BFS.cpp.o -c /home/xiong/Documents/人工智能/实验/实验一/src/BFS.cpp",
+  "file": "/home/xiong/Documents/人工智能/实验/实验一/src/BFS.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/BFS.cpp.o"
+},
+{
+  "directory": "/home/xiong/Documents/人工智能/实验/实验一/build",
+  "command": "/usr/bin/clang++ -I/home/xiong/Documents/人工智能/实验/实验一/include -g -std=gnu++17 -o CMakeFiles/MyProject.dir/src/Node.cpp.o -c /home/xiong/Documents/人工智能/实验/实验一/src/Node.cpp",
+  "file": "/home/xiong/Documents/人工智能/实验/实验一/src/Node.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/Node.cpp.o"
+},
+{
+  "directory": "/home/xiong/Documents/人工智能/实验/实验一/build",
+  "command": "/usr/bin/clang++ -I/home/xiong/Documents/人工智能/实验/实验一/include -g -std=gnu++17 -o CMakeFiles/MyProject.dir/src/Astar.cpp.o -c /home/xiong/Documents/人工智能/实验/实验一/src/Astar.cpp",
+  "file": "/home/xiong/Documents/人工智能/实验/实验一/src/Astar.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/Astar.cpp.o"
+}
+]
